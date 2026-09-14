@@ -63,3 +63,7 @@ Built on [Basic Tetris HTML and JavaScript Game](https://gist.github.com/straker
 ## License
 
 MIT.
+
+---
+
+Made by [Q Manning](https://qmanning.com) · [Source on GitHub](https://github.com/qmanning/qtris-404-page) · [See it live in the Labs](https://qmanning.com/labs/qtris-404-page)
